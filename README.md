@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+# Struttor URL shortening service
+
+This is a URL shortening application meant to highlight all stages of the SDLC.
+Additionally it is built with Continuous Integration / Continuous Delivery (CI/CD) to demonstrate automations and integrations in real world environments.
+
+
 ## Getting Started
 
 First, run the development server:
